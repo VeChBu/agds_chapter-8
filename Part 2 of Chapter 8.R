@@ -3,3 +3,5 @@
 Ich möchte an dieser Stelle Whitman zitieren, ‚Ich und mein Leben … die immer wiederkehrenden Fragen, der endlose Zug der Ungläubigen, die Städte voller Narren. Wozu bin ich da? Wozu nützt dieses Leben? Die Antwort. Damit Du hier bist. Damit das Leben nicht zu Ende geht. Deine Individualität. Damit das Spiel der Mächte weiterbesteht und Du deinen Vers dazu beitragen kannst.‘“
 
 Quelle: Der fiktive Charakter John Keating (Robin Williams)"
+
+library(ggplot2)
